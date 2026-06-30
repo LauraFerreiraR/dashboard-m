@@ -43,7 +43,7 @@ Coloque o arquivo da logo com o nome `logo.png` na mesma pasta.
 node servidor.js
 ```
 
-Acesse **http://localhost:8030** no navegador.
+Acesse **http://localhost:0000** no navegador.
 
 ---
 
